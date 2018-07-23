@@ -21,7 +21,7 @@ function init(input) {
 
 
     if (stepNumber === codes.length) {
-      window.alert("Hurray!");
+      window.alert("lol!!!!");
     }
   })
 
